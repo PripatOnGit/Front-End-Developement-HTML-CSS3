@@ -1,0 +1,46 @@
+body{
+    background-image: url("C:/Users/priya/OneDrive/Desktop/Priyanka/WEB DEV/CSS/CSSDay1&2Assignment/market.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#d1 {
+    text-align: center;
+    border: 5px solid olive;
+    border-radius: 5px;
+    max-width: 50%;
+    align-items: center;
+    
+}
+h2{
+    color:darkslategrey;
+}
+table, th , td {
+    border: 4px solid green;
+    border-collapse: collapse;
+    width: auto;
+    margin: 100px auto;
+    padding: 20px;
+    text-align: center;
+   
+}
+th {
+    color: black;
+    background-color: bisque;
+}
+
+
+tr:nth-child(even){
+    background-color  :lightcyan;
+}
+tr:nth-child(odd){
+    background-color: darksalmon;
+}
+tr:hover { 
+    background-color: olivedrab;
+}
+
+table {
+    overflow-x: auto;
+    
+}

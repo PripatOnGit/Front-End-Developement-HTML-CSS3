@@ -1,0 +1,36 @@
+
+
+article{
+    color:black;
+    background-color:blanchedalmond;
+    text-align: center;
+    background-image: url("C:/Users/priya/OneDrive/Desktop/Priyanka/WEB DEV/CSS/CSSDay1&2Assignment/m2.jpeg");
+    border: 5px outset olivedrab;
+    border-radius: 10px;
+    width: 30%;
+    padding: 10px;
+    outline-offset: 30px;
+    outline: 15px outset olivedrab;
+    margin: 100px 400px auto 600px;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+}
+a{
+    text-decoration: none;
+}
+a:link{
+    color: black;
+}
+
+a:hover{
+    color: brown;
+}
+#sec2{
+    color:crimson;
+    text-shadow: 2px 2px olive;
+}
